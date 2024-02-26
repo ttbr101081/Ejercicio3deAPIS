@@ -1,5 +1,8 @@
 # Ejercicio de APIS 
 Author: Rodrigo Terán
+![image](https://github.com/ttbr101081/Ejercicio3deAPIS/assets/79415192/b5df92f3-88a4-47c8-918c-785b65c6a657)
+
+
 Proyecto generado con Karate, Junit5, maven, java 
 
 1. Prerequisitos: 📃
